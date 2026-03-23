@@ -1,35 +1,10 @@
-git init
-
-git add .
-
-git commit -m "Task 1: Business Sales Analytics Dashboard - Power BI internship project"
-
-git branch -M main
-
-git remote add origin https://github.com/YOUR_USERNAME/business-sales-analytics.git
-
-git push -u origin main
-```
-
-Replace `YOUR_USERNAME` with your actual GitHub username.
-
----
-
-## 📱 Your LinkedIn post (ready to copy-paste)
-```
-📊 Just completed Task 1 of my Data Science internship with Future Interns! 🎉
-
-Built my first Power BI dashboard from scratch — analyzed $9.7M in UK e-commerce revenue across 38 countries and uncovered some cool insights:
-
-✅ Thursday is the strongest revenue day ($2.1M weekly avg)
-✅ 10am–12pm is peak buying time (24% of daily transactions)
-✅ International market is only 16% of revenue — huge growth opportunity
-✅ December spike to $1.45M (seasonal demand)
-
-Connected real Excel data → Power BI → actionable insights.
-
-Tools: Excel, Power BI Desktop, DAX measures
-
-All code on GitHub: github.com/YOUR_USERNAME/business-sales-analytics
-
-Two more tasks to go! #PowerBI #DataScience #Internship #FutureInterns #BusinessAnalytics
+business-sales-analytics/
+│
+├── README.md
+├── data/
+│   └── Sales_Data_MutasimAhmed.xlsx
+├── dashboard/
+│   ├── task_1.pbix
+│   └── Dashboard_Screenshot.png
+└── docs/
+    └── DAX_Measures_PowerBI_MutasimAhmed.docx
