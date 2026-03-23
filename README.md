@@ -148,8 +148,3 @@ Full DAX code in **DAX_Measures_PowerBI_MutasimAhmed.docx**
 **Created by:** Mutasim Ahmed  
 **Location:** UAE  
 
----
-
-### Connect with me:
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [your.email@example.com]
